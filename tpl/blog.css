@@ -24,3 +24,10 @@ footer {
 .social-buttons button {
 	margin-top: 5px;
 }
+
+/* Media Queries */
+@media (min-width: 768px) {
+	.group2 {
+		text-align: right;
+	}
+}
