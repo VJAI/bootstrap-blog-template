@@ -25,6 +25,13 @@ footer {
 	margin-top: 5px;
 }
 
+a.logo-link {
+	display: inline-block;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+
+
 /* Media Queries */
 @media (min-width: 768px) {
 	.group2 {

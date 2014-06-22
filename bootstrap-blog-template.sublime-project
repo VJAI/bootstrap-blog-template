@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "/D/Git/bootstrap-blog-template"
+		}
+	],
+	"settings":
+    {
+    	"less2css":
+		{
+			"lessBaseDir": "tpl\\less",
+			"outputDir": "tpl\\bootstrap-custom\\css",
+			"main_file": "custom.bootstrap.less",
+			"minify": true
+		}
+    }
+}
+

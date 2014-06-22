@@ -1,0 +1,96 @@
+@import "../lib/bootstrap-3.1.1/less/variables.less";
+
+//** Typography
+@font-family-sans-serif:            "Open Sans", sans-serif;
+@font-size-base:                    13px;
+@line-height-base:                  1.8;
+
+@headings-font-family:              'Yanone Kaffeesatz', sans-serif;
+@headings-font-weight:              700;
+
+@font-size-h1:						floor((@font-size-base * 3.1));
+@font-size-h2:						floor((@font-size-base * 2.65));
+@font-size-h3:						floor((@font-size-base * 2.2));
+@font-size-h4:						floor((@font-size-base * 1.75));
+
+//** Color System
+@brand-color:                       #1F1F1B; // dark green
+@gray-darker:                       lighten(@brand-color, 13.5%); 
+@gray-dark:                         lighten(@brand-color, 20%);   
+@gray:                              lighten(@brand-color, 33.5%); 
+@gray-light:                        lighten(@brand-color, 60%);   
+@gray-lighter:                      lighten(@brand-color, 93.5%); 
+
+// Core colours
+@brand-primary:                     #AEAF57; // olive green
+@brand-success:                     #DAA019; // orange
+@brand-info:                        #EFEFC2; // light green
+@brand-warning:                     #CFCFB5; // dull green
+@brand-danger:                      #4F4F36; // army green
+
+@brand-light:                       #FBFFDF; // whitish green
+
+@body-bg:                           @brand-info;
+@link-color:                        @brand-success;
+@hr-border:                         @brand-warning;
+
+// Panels
+@panel-bg:                          @brand-light;
+@panel-primary-text:				@brand-light;
+@panel-primary-border:              @brand-info;
+
+// List group
+@list-group-bg:                     @brand-light;
+@list-group-border:                 @brand-info;
+
+// Wells
+@well-bg: 							@brand-light;
+@well-border:  						@brand-info;
+
+.well {	      
+    background-image: none !important;       
+    border-color: @well-border !important;
+    .box-shadow(0 1px 1px rgba(0,0,0,.05)) !important;
+
+	.lead {
+		font-family: @headings-font-family;
+		font-weight: @headings-font-weight;
+		font-size: @font-size-h3;
+	}
+}
+
+// Navbar
+@navbar-inverse-bg: @brand-danger;
+@navbar-inverse-link-color: @brand-primary;
+@navbar-inverse-link-hover-color: lighten(@brand-primary, 20%);
+@navbar-inverse-brand-color:  @brand-success;
+@navbar-inverse-brand-hover-color:  lighten(@brand-success, 20%);
+
+.navbar-nav > li > a {
+    font-family: @headings-font-family;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+// Pagination
+@pagination-color:                  @brand-light;
+@pagination-bg:                     @brand-primary;
+@pagination-border:                 @brand-primary;
+
+@pagination-hover-color:            @brand-primary;
+@pagination-hover-bg:               @brand-light;
+@pagination-hover-border:           @brand-primary;
+
+.pager {
+    li {
+        > a {
+            color: @pagination-color;
+        }
+        > a:hover,
+        > a:focus {
+            color: @pagination-hover-color;
+        }
+    }
+}

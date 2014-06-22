@@ -1,0 +1,881 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"line-h",
+				"line-height-base"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"row",
+				"rowLink"
+			],
+			[
+				"gro",
+				"group"
+			],
+			[
+				"get",
+				"getNoOfGroups"
+			],
+			[
+				"collapse",
+				"collapseGroups"
+			],
+			[
+				"se",
+				"searchText"
+			],
+			[
+				"search",
+				"searchText"
+			],
+			[
+				"sel",
+				"selectRow"
+			],
+			[
+				"sele",
+				"selectedRowId"
+			],
+			[
+				"tab",
+				"tabModel"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"with",
+				"withAnimation"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"em",
+				"emptyMessage"
+			],
+			[
+				"col",
+				"collection"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"_s",
+				"_sortGroupItems"
+			],
+			[
+				"_so",
+				"_sortGroupItems"
+			],
+			[
+				"sot",
+				"sortOrder"
+			],
+			[
+				"fil",
+				"filterValues"
+			],
+			[
+				"_",
+				"_filterCollection"
+			],
+			[
+				"filt",
+				"filterValues"
+			],
+			[
+				"sort",
+				"sortOrder"
+			],
+			[
+				"arra",
+				"array2"
+			],
+			[
+				"ma",
+				"maxDepth"
+			],
+			[
+				"form",
+				"formEl"
+			],
+			[
+				"acc",
+				"accordion"
+			],
+			[
+				"summ",
+				"summary-view"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"defa",
+				"defaultTab"
+			],
+			[
+				"nav",
+				"nav-tabs"
+			],
+			[
+				"newt",
+				"newTabModel"
+			],
+			[
+				"new",
+				"newTabModel"
+			],
+			[
+				"newTa",
+				"newTabModel"
+			],
+			[
+				"co",
+				"collection"
+			],
+			[
+				"gett",
+				"getTabsCount"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"sh",
+				"showTab"
+			],
+			[
+				"tabc",
+				"tabContentTpl"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"rem",
+				"remove"
+			],
+			[
+				"render",
+				"render"
+			],
+			[
+				"tabs",
+				"tabs"
+			],
+			[
+				"act",
+				"activeTabEl"
+			],
+			[
+				"isac",
+				"isActiveTab"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"is",
+				"isActive"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tpl/index.html",
+			"settings":
+			{
+				"buffer_size": 17738,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tpl/contact.html",
+			"settings":
+			{
+				"buffer_size": 3577,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tpl/about.html",
+			"settings":
+			{
+				"buffer_size": 5126,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tpl/singlepost.html",
+			"settings":
+			{
+				"buffer_size": 11859,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tpl/blog.css",
+			"settings":
+			{
+				"buffer_size": 419,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tpl/less/custom.variables.less",
+			"settings":
+			{
+				"buffer_size": 3006,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "// Core variables and mixins\n@import \"custom.variables.less\";\n@import \"../lib/bootstrap-3.1.1/less/mixins.less\";\n\n// Reset\n@import \"../lib/bootstrap-3.1.1/less/normalize.less\";\n@import \"../lib/bootstrap-3.1.1/less/print.less\";\n\n// Core CSS\n@import \"../lib/bootstrap-3.1.1/less/scaffolding.less\";\n@import \"../lib/bootstrap-3.1.1/less/type.less\";\n@import \"../lib/bootstrap-3.1.1/less/code.less\";\n@import \"../lib/bootstrap-3.1.1/less/grid.less\";\n@import \"../lib/bootstrap-3.1.1/less/tables.less\";\n@import \"../lib/bootstrap-3.1.1/less/forms.less\";\n@import \"../lib/bootstrap-3.1.1/less/buttons.less\";\n\n// Components\n@import \"../lib/bootstrap-3.1.1/less/component-animations.less\";\n@import \"../lib/bootstrap-3.1.1/less/glyphicons.less\";\n@import \"../lib/bootstrap-3.1.1/less/dropdowns.less\";\n@import \"../lib/bootstrap-3.1.1/less/button-groups.less\";\n@import \"../lib/bootstrap-3.1.1/less/input-groups.less\";\n@import \"../lib/bootstrap-3.1.1/less/navs.less\";\n@import \"../lib/bootstrap-3.1.1/less/navbar.less\";\n@import \"../lib/bootstrap-3.1.1/less/breadcrumbs.less\";\n@import \"../lib/bootstrap-3.1.1/less/pagination.less\";\n@import \"../lib/bootstrap-3.1.1/less/pager.less\";\n@import \"../lib/bootstrap-3.1.1/less/labels.less\";\n@import \"../lib/bootstrap-3.1.1/less/badges.less\";\n@import \"../lib/bootstrap-3.1.1/less/jumbotron.less\";\n@import \"../lib/bootstrap-3.1.1/less/thumbnails.less\";\n@import \"../lib/bootstrap-3.1.1/less/alerts.less\";\n@import \"../lib/bootstrap-3.1.1/less/progress-bars.less\";\n@import \"../lib/bootstrap-3.1.1/less/media.less\";\n@import \"../lib/bootstrap-3.1.1/less/list-group.less\";\n@import \"../lib/bootstrap-3.1.1/less/panels.less\";\n@import \"../lib/bootstrap-3.1.1/less/wells.less\";\n@import \"../lib/bootstrap-3.1.1/less/close.less\";\n\n// Components w/ JavaScript\n@import \"../lib/bootstrap-3.1.1/less/modals.less\";\n@import \"../lib/bootstrap-3.1.1/less/tooltip.less\";\n@import \"../lib/bootstrap-3.1.1/less/popovers.less\";\n@import \"../lib/bootstrap-3.1.1/less/carousel.less\";\n\n// Utility classes\n@import \"../lib/bootstrap-3.1.1/less/utilities.less\";\n@import \"../lib/bootstrap-3.1.1/less/responsive-utilities.less\";\n\n// Theme\n@import \"../lib/bootstrap-3.1.1/less/theme.less\";\n\n",
+			"file": "tpl/less/custom.bootstrap.less",
+			"file_size": 2161,
+			"file_write_time": 130469654526027965,
+			"settings":
+			{
+				"buffer_size": 2175,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: in	",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 169.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/MyBlogTemplate/index.html",
+		"/D/MyBlogTemplate/about.html",
+		"/D/MyBlogTemplate/contact.html",
+		"/D/MyBlogTemplate/singlepost.html",
+		"/D/MyBlogTemplate/lib/bootstrap-3.1.1/less/mixins.less",
+		"/D/MyBlogTemplate/lib/bootstrap-3.1.1/less/buttons.less",
+		"/D/MyBlogTemplate/MyBlogTemplate.sublime-project",
+		"/D/MyBlogTemplate/lib/bootstrap-3.1.1/less/bootstrap.less",
+		"/D/MyBlogTemplate/lib/bootstrap-3.1.1/less/variables.less",
+		"/D/Boot2/less/astrospace.variables.less",
+		"/D/Boot2/less/astrospace.bootstrap.less",
+		"/C/Users/Vijaya.Anand/AppData/Roaming/Sublime Text 2/Packages/Less2Css/README.md",
+		"/D/Boot2/blog.css",
+		"/D/Boot2/singlepost.html",
+		"/D/Boot2/index.html",
+		"/D/Boot2/less/astrospace.colors.headache.less",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/pager.less",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/pagination.less",
+		"/D/Boot2/less/astrospace.pagination.less",
+		"/D/Boot2/less/astrospace.buttons.less",
+		"/D/Boot2/less/astrospace.wells.less",
+		"/D/Boot2/less/astrospace.panels.less",
+		"/D/Boot2/less/astrospace.navbar.less",
+		"/D/Boot2/less/astrospace.theme.less",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/type.less",
+		"/D/Boot2/Boot2.sublime-project",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/theme.less",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/wells.less",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/mixins.less",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/list-group.less",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/panels.less",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/variables.less",
+		"/D/Boot2/about.html",
+		"/D/Boot2/contact.html",
+		"/D/Git/bootstrap-blog-template/tpl/index.html",
+		"/C/Users/Vijaya.Anand/AppData/Roaming/Sublime Text 2/Packages/User/less2css.sublime-settings",
+		"/C/Users/Vijaya.Anand/AppData/Roaming/Sublime Text 2/Packages/Less2Css/less2css.sublime-settings",
+		"/C/Users/Vijaya.Anand/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Vijaya.Anand/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/bootstrap.less",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/responsive-utilities.less",
+		"/D/Boot2/lib/bootstrap-3.1.1/less/tables.less",
+		"/D/Boot2/less/astrospace.colors.airplane.less",
+		"/C/Program Files (x86)/NCH Swift Sound/Talk/Help/index.html",
+		"/C/Users/Vijaya.Anand/Desktop/_how_to_create_a_simple_blog_part1.cshtml",
+		"/D/Downloads/www/index.html",
+		"/C/Program Files (x86)/Belarc/BelarcAdvisor/System/tmp/(WLW7-VIJAYAA).html",
+		"/C/Program Files (x86)/NCH Software/Talk/Help/usage.html",
+		"/D/Downloads/WhereIsMySecret/WhereIsMySecret/www/index.html",
+		"/D/Downloads/WhereIsMySecret/WhereIsMySecret/www/js/models/Credential.js",
+		"/C/Users/Vijaya.Anand/AppData/Local/Temp/NDependTemporaryProject/NDependOut/NDependReport.html",
+		"/C/Users/Vijaya.Anand/Desktop/_simplifying_html_generation_using_razor_templates.cshtml",
+		"/C/Users/Vijaya.Anand/Desktop/justblog.cshtml",
+		"/C/Users/Vijaya.Anand/Desktop/Enthan-Jeba-Velai---Jolly-Abraham---Tamil-Christian-Song---New-2013-mp3-download.html",
+		"/D/Lynx/dev/js/lib/chocolatechip-ui-master/src/examples/busy-control.html",
+		"/D/Lynx/dev/js/lib/chocolatechip-ui-master/src/demo/index.html",
+		"/C/Users/Vijaya.Anand/Desktop/_dependency_injection_using_ninject.cshtml",
+		"/D/Personal/PrideParrot/PrideParrot.Web/Views/Shared/_Slider.cshtml",
+		"/D/Git/bootstrap-blog-template/README.md",
+		"/D/Personal/PrideParrot/PrideParrot.Web/Views/Articles/Archives/2014/2/_blog_template_using_twitter_bootstrap3_part1.cshtml",
+		"/C/Users/Vijaya.Anand/Desktop/AboutMe.cshtml",
+		"/D/Boot/index.html",
+		"/D/Boot/blog.css",
+		"/D/Boot/about.html",
+		"/D/Boot/contact.html",
+		"/D/Boot/singlepost.html",
+		"/D/Boot/testindex.html",
+		"/D/Personal/PrideParrot/PrideParrot.Web/Views/Articles/Archives/2013/5/_how_to_create_simple_blog_part3.cshtml",
+		"/C/Users/Vijaya.Anand/Desktop/themefixes.css",
+		"/D/Personal/PrideParrot/PrideParrot.Web/Views/Articles/Archives/2013/1/_how_to_create_simple_blog_part2.cshtml",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/smartlist.js",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/notification.js",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/multiselect.js",
+		"/D/XT-Development/Web/Teletracking/javascript/util/handlebars-helpers.js",
+		"/D/XT-Development/Web/Teletracking/javascript/plugins/jquery.loadmask.min.js",
+		"/D/XT-Development/Web/Teletracking/javascript/plugins/backgrid-0.3.5/backgrid.css",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/grid.js",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/tabs.js",
+		"/D/XT-Development/Web/Teletracking/javascript/plugins/backgrid-0.3.5/backgrid.js",
+		"/D/XT-Development/Web/Teletracking/javascript/util/Validator.js",
+		"/C/Users/Vijaya.Anand/Desktop/Index.cshtml",
+		"/D/ServiceTracking/Model Validation/Client Validation/index.html",
+		"/C/Users/Vijaya.Anand/Desktop/templates2.js",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/teletracking.typeahead.js",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/backbone.typeahead.js",
+		"/C/Users/Vijaya.Anand/Desktop/patient",
+		"/C/Users/Vijaya.Anand/Desktop/_uploading_and_returning_files.cshtml",
+		"/D/datetest.html",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/controlstestpage.html",
+		"/D/XT-Development/Web/Teletracking/Logistics/node_modules/grunt-handlebars-compiler/package.json",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/handlebartest.html",
+		"/D/XT-Development/Web/Teletracking/Logistics/node_modules/grunt/lib/grunt.js",
+		"/D/XT-Development/Web/Teletracking/javascript/lib/handlebars.js",
+		"/D/XT-Development/Web/Teletracking/Logistics/Scripts/application/templates/templates.js",
+		"/D/TwitterBootstrap/src/TTBootstrap/index.html",
+		"/C/Program Files/Reliance Netconnect+/Help/EVDO/reliance/Mode.html",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/controltestpage.js",
+		"/C/Users/Vijaya.Anand/Desktop/summaryhandlebars.html",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/accordion.js",
+		"/C/Users/Vijaya.Anand/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/4QLDK37U/index (3).html",
+		"/C/Users/Vijaya.Anand/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/4QLDK37U/index.html",
+		"/D/XT-Development/Web/Teletracking/Logistics/Scripts/application/templates/ServiceRequestDialog.handlebars",
+		"/D/XT-Development/Web/Teletracking/Logistics/Scripts/application/templates/ServiceRequestTab.handlebars",
+		"/C/Users/Vijaya.Anand/Desktop/servicetracking_form3.html",
+		"/D/XT-Development/Web/Teletracking/Logistics/Content/ServiceRequest.css",
+		"/D/XT-Development/Web/Teletracking/Logistics/Scripts/application/views/ServiceRequestView.js",
+		"/D/XT-Development/Web/Teletracking/Logistics/Views/Shared/_Layout.cshtml",
+		"/D/Back-up/Logistics/Scripts/application/templates/ServiceRequestTab.handlebars",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/dialog.js",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/svcreqfk/index.html",
+		"/D/XT-Development/Web/Teletracking/AdminTool/Mvc/Scripts/application/views/TaskDetailsView.js",
+		"/D/XT-Development/Web/Teletracking/AdminTool/Mvc/Scripts/application/views/DepartmentParentView.js",
+		"/D/XT-Development/Web/Teletracking/AdminTool/Mvc/Scripts/application/views/DepartmentDetailParentView.js",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/typeaheadcombo.js",
+		"/D/TwitterBootstrap/experiments/forms.html",
+		"/C/Users/Vijaya.Anand/Desktop/index.html",
+		"/D/Teletrackingtask/index.html",
+		"/D/XT-Development/Web/Teletracking/css/bootstrap/index.html",
+		"/D/XT-Development/Web/Teletracking/javascript/util/handlebar-helpers.js",
+		"/D/Back-up/tabs.js",
+		"/D/Downloads/Teletracking TypeAhead/script/typeahead_helper.js",
+		"/D/Downloads/Teletracking TypeAhead/script/teletracking.typeahead.js",
+		"/D/XT-Development/Web/Teletracking/javascript/controls/tabstest.html",
+		"/D/TwitterBootstrap/experiments/index.html",
+		"/D/Downloads/blog-post/blog-post.html",
+		"/D/TwitterBootstrap/experiments/grids.html",
+		"/C/Users/Vijaya.Anand/Desktop/sprintplan",
+		"/C/Users/Vijaya.Anand/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/*\n",
+			"//@",
+			"<",
+			"button-size",
+			"headings-font-family",
+			"pager",
+			"vertical",
+			"lead",
+			"@gray-light",
+			"gray",
+			"\";\n",
+			"title2",
+			"title",
+			"title2",
+			"placeholder4",
+			"CREATE THE HOME PAGE FOR THE BLOG",
+			"continue reading...",
+			"class=\"text-right\"",
+			"”",
+			"_groupCollection",
+			"groupby",
+			"_.filter",
+			"_filterCollection",
+			"collapseGroups",
+			"width",
+			"background-color",
+			"searchInput",
+			"setFocusAt0",
+			"focus",
+			"hide",
+			"blur",
+			"dirty",
+			"8",
+			"onBeforeFetch",
+			"onerror",
+			"onError",
+			"onBeforeFetchItem",
+			"refresh",
+			"notification",
+			"error",
+			"dirty",
+			"filemodel.saveas",
+			"isUgly",
+			"sort",
+			"_groupCollection",
+			"handlebars",
+			"templateSpec<html>",
+			"templateSpec",
+			"templatespec",
+			"Astro King",
+			"getActiveTabs",
+			"trigger",
+			"contentView",
+			"showTab",
+			"add-tab-content",
+			"id",
+			"add-tab-content",
+			"teletracking",
+			"getActiveTab",
+			"afterRenderCallback",
+			"initializeTabs",
+			"afterRenderCallback",
+			"parent",
+			"unbind",
+			"each",
+			".each",
+			"if",
+			"tab-pane",
+			"\">",
+			"height",
+			"8",
+			"style",
+			"newtabmodel",
+			"newTabModel",
+			"data",
+			".nav-tabs",
+			"col-md-6 col-sm-6",
+			"/singlepost.html",
+			"ignore",
+			"js-ie7",
+			"/TTBootstrap",
+			"/js/PIE-2.0beta1",
+			".htc",
+			"/scripts",
+			"corner-rad",
+			"button-corner",
+			"10.5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&lt;",
+			"col-sm-6 col-md-6",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tpl/index.html",
+					"settings":
+					{
+						"buffer_size": 17738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tpl/contact.html",
+					"settings":
+					{
+						"buffer_size": 3577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3577,
+								3577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1049.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tpl/about.html",
+					"settings":
+					{
+						"buffer_size": 5126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5126,
+								5126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1589.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "tpl/singlepost.html",
+					"settings":
+					{
+						"buffer_size": 11859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11859,
+								11859
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "tpl/blog.css",
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "tpl/less/custom.variables.less",
+					"settings":
+					{
+						"buffer_size": 3006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2501,
+								2501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 899.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "tpl/less/custom.bootstrap.less",
+					"settings":
+					{
+						"buffer_size": 2175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2175,
+								2175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 137.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}
