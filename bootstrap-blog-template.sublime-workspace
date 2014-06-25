@@ -240,61 +240,10 @@
 	"buffers":
 	[
 		{
-			"file": "tpl/index.html",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 17738,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tpl/contact.html",
-			"settings":
-			{
-				"buffer_size": 3577,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tpl/about.html",
-			"settings":
-			{
-				"buffer_size": 5126,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tpl/singlepost.html",
-			"settings":
-			{
-				"buffer_size": 11859,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tpl/blog.css",
-			"settings":
-			{
-				"buffer_size": 419,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tpl/less/custom.variables.less",
-			"settings":
-			{
-				"buffer_size": 3006,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "// Core variables and mixins\n@import \"custom.variables.less\";\n@import \"../lib/bootstrap-3.1.1/less/mixins.less\";\n\n// Reset\n@import \"../lib/bootstrap-3.1.1/less/normalize.less\";\n@import \"../lib/bootstrap-3.1.1/less/print.less\";\n\n// Core CSS\n@import \"../lib/bootstrap-3.1.1/less/scaffolding.less\";\n@import \"../lib/bootstrap-3.1.1/less/type.less\";\n@import \"../lib/bootstrap-3.1.1/less/code.less\";\n@import \"../lib/bootstrap-3.1.1/less/grid.less\";\n@import \"../lib/bootstrap-3.1.1/less/tables.less\";\n@import \"../lib/bootstrap-3.1.1/less/forms.less\";\n@import \"../lib/bootstrap-3.1.1/less/buttons.less\";\n\n// Components\n@import \"../lib/bootstrap-3.1.1/less/component-animations.less\";\n@import \"../lib/bootstrap-3.1.1/less/glyphicons.less\";\n@import \"../lib/bootstrap-3.1.1/less/dropdowns.less\";\n@import \"../lib/bootstrap-3.1.1/less/button-groups.less\";\n@import \"../lib/bootstrap-3.1.1/less/input-groups.less\";\n@import \"../lib/bootstrap-3.1.1/less/navs.less\";\n@import \"../lib/bootstrap-3.1.1/less/navbar.less\";\n@import \"../lib/bootstrap-3.1.1/less/breadcrumbs.less\";\n@import \"../lib/bootstrap-3.1.1/less/pagination.less\";\n@import \"../lib/bootstrap-3.1.1/less/pager.less\";\n@import \"../lib/bootstrap-3.1.1/less/labels.less\";\n@import \"../lib/bootstrap-3.1.1/less/badges.less\";\n@import \"../lib/bootstrap-3.1.1/less/jumbotron.less\";\n@import \"../lib/bootstrap-3.1.1/less/thumbnails.less\";\n@import \"../lib/bootstrap-3.1.1/less/alerts.less\";\n@import \"../lib/bootstrap-3.1.1/less/progress-bars.less\";\n@import \"../lib/bootstrap-3.1.1/less/media.less\";\n@import \"../lib/bootstrap-3.1.1/less/list-group.less\";\n@import \"../lib/bootstrap-3.1.1/less/panels.less\";\n@import \"../lib/bootstrap-3.1.1/less/wells.less\";\n@import \"../lib/bootstrap-3.1.1/less/close.less\";\n\n// Components w/ JavaScript\n@import \"../lib/bootstrap-3.1.1/less/modals.less\";\n@import \"../lib/bootstrap-3.1.1/less/tooltip.less\";\n@import \"../lib/bootstrap-3.1.1/less/popovers.less\";\n@import \"../lib/bootstrap-3.1.1/less/carousel.less\";\n\n// Utility classes\n@import \"../lib/bootstrap-3.1.1/less/utilities.less\";\n@import \"../lib/bootstrap-3.1.1/less/responsive-utilities.less\";\n\n// Theme\n@import \"../lib/bootstrap-3.1.1/less/theme.less\";\n\n",
-			"file": "tpl/less/custom.bootstrap.less",
-			"file_size": 2161,
-			"file_write_time": 130469654526027965,
-			"settings":
-			{
-				"buffer_size": 2175,
+				"buffer_size": 316,
 				"line_ending": "Windows"
 			}
 		}
@@ -375,6 +324,14 @@
 	},
 	"file_history":
 	[
+		"/D/Git/bootstrap-blog-template/tpl/less/custom.bootstrap.less",
+		"/D/Git/bootstrap-blog-template/tpl/index.html",
+		"/D/Git/bootstrap-blog-template/tpl/contact.html",
+		"/D/Git/bootstrap-blog-template/tpl/about.html",
+		"/D/Git/bootstrap-blog-template/tpl/singlepost.html",
+		"/D/Git/bootstrap-blog-template/tpl/blog.css",
+		"/D/Git/bootstrap-blog-template/tpl/less/custom.variables.less",
+		"/D/Git/bootstrap-blog-template/bootstrap-blog-template.sublime-project",
 		"/D/MyBlogTemplate/index.html",
 		"/D/MyBlogTemplate/about.html",
 		"/D/MyBlogTemplate/contact.html",
@@ -409,7 +366,6 @@
 		"/D/Boot2/lib/bootstrap-3.1.1/less/variables.less",
 		"/D/Boot2/about.html",
 		"/D/Boot2/contact.html",
-		"/D/Git/bootstrap-blog-template/tpl/index.html",
 		"/C/Users/Vijaya.Anand/AppData/Roaming/Sublime Text 2/Packages/User/less2css.sublime-settings",
 		"/C/Users/Vijaya.Anand/AppData/Roaming/Sublime Text 2/Packages/Less2Css/less2css.sublime-settings",
 		"/C/Users/Vijaya.Anand/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
@@ -495,14 +451,7 @@
 		"/D/XT-Development/Web/Teletracking/css/bootstrap/index.html",
 		"/D/XT-Development/Web/Teletracking/javascript/util/handlebar-helpers.js",
 		"/D/Back-up/tabs.js",
-		"/D/Downloads/Teletracking TypeAhead/script/typeahead_helper.js",
-		"/D/Downloads/Teletracking TypeAhead/script/teletracking.typeahead.js",
-		"/D/XT-Development/Web/Teletracking/javascript/controls/tabstest.html",
-		"/D/TwitterBootstrap/experiments/index.html",
-		"/D/Downloads/blog-post/blog-post.html",
-		"/D/TwitterBootstrap/experiments/grids.html",
-		"/C/Users/Vijaya.Anand/Desktop/sprintplan",
-		"/C/Users/Vijaya.Anand/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+		"/D/Downloads/Teletracking TypeAhead/script/typeahead_helper.js"
 	],
 	"find":
 	{
@@ -628,188 +577,28 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "tpl/index.html",
+					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 17738,
+						"buffer_size": 316,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								268,
-								268
+								316,
+								316
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "tpl/contact.html",
-					"settings":
-					{
-						"buffer_size": 3577,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3577,
-								3577
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1049.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "tpl/about.html",
-					"settings":
-					{
-						"buffer_size": 5126,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5126,
-								5126
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1589.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "tpl/singlepost.html",
-					"settings":
-					{
-						"buffer_size": 11859,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11859,
-								11859
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "tpl/blog.css",
-					"settings":
-					{
-						"buffer_size": 419,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								419,
-								419
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "tpl/less/custom.variables.less",
-					"settings":
-					{
-						"buffer_size": 3006,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2501,
-								2501
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 899.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "tpl/less/custom.bootstrap.less",
-					"settings":
-					{
-						"buffer_size": 2175,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2175,
-								2175
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -876,6 +665,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 238.0,
+	"side_bar_width": 355.0,
 	"status_bar_visible": true
 }
